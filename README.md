@@ -26,23 +26,34 @@
 
 ### My Experiences:
 <img src = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fot32.jpg" width = 250> 
-<p><li>Interned as a <em> Global Business Analyst </em> at L'Oréal, working for more than 10 brands in 8 countries</li></p>
-<p><li>Analysed sales data, created reports, viz, suggestions for senior management</li></p>
-<p><li>Worked on the front lines, ensuring customer satisfaction</li></p>
-<p><li>Created <em> data driven strategies </em> for the retail partners to increase penetration in new markets and retention</li></p>
+<p><li>Interned as a <em> Product Manager </em> at Indeez, an insurtech company in Paris for a second time.</li></p>
+<p><li>Spearheaded the launch of a dynamic Risk Management Console for B2B clients, drastically improving insurance policy management.</li></p>
+<p><li>Fostered a strategic partnership with a global EV manufacturer to develop impactful insurance policies for key markets.</li></p>
+<p><li>Implemented a results-driven Voice of Customer strategy for heightened customer satisfaction and retention</li></p>
+<p><li>Crafted persuasive PRDs, pitches, and roadmaps, garnering significant approval from higher management</li></p>
 
 <br>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/3/35/Stealthfoto.jpg" width = 250>
-<p><li>Interned as a <em> Business Analyst </em> at Amazon EU HQ. Worked for Amazon Transportation Services, responsible for your timely delivery of packages </li></p>
-<p><li>Analysed operation data to create visualizations in Tableau and AWS Quicksight, business process improvements and automated reports for more than 60 stakeholders </li></p>
-<p><li> Automated several complex manual process using Python to improve time efficiency and save time </li></p>
-<p><li> Developed automated ETL pipelines to generate daily business KPI reports </li></p>
+<p><li>Interned as a <em> Product Manager </em> at a VC backed Generative AI HRtech startup in New York </li></p>
+<p><li>Guided the product team in orchestrating a successful company pivot toward internal mobility solutions </li></p>
+<p><li> Pioneered the conception, design, and development of a cutting-edge SaaS internal mobility product tailored for Large Cap Companies in the US </li></p>
+<p><li> Collaborated closely with HR professionals from a Fortune 500 design partner, contributing to feature ideation and roadmap planning </li></p>
+<p><li> Oversaw the entire product lifecycle within a cross-functional development team, seamlessly integrating Marketing, Engineering, and Design efforts </li></p>
 
+<br>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fot32.jpg" width = 250>
+<p><li>Interned as a <em> Product Manager </em> at Indeez, a insurtech in Paris creating innovative insurance solutions for freelancers in Europe </li></p>
+<p><li>Pioneered a journey from brainstorming to launch for cutting-edge insurance products, exceeding expectations along the way </li></p>
+<p><li> Masterminded market strategies, making our product the talk of the town and a must-have for savvy professionals </li></p>
+<p><li>Unearthed invaluable insights from a treasure trove of 500+ customer interviews, shaping our product into a user-friendly marvel </li></p>
+<p><li> Revolutionized the client experience, turning feedback into gold and leaving smiles on faces </li></p>
 
 <br>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gyrix_logo.jpg" width = 250>
-<p><li>Worked as an Analyst and Product Mananger at Amadeus, India</li></p>
-<p><li>Managed a legacy project to convert older applications into a new robust, secure system using Java </li></p>
+<p><li>Worked as an Associate Product Mananger at Amadeus, India</li></p>
+<p><li>Directed the seamless rollout of an HRMS platform, guiding teams to streamline HR processes significantly </li></p>
+<p><li>Evaluated and prioritized a wealth of customer feedback, resulting in impactful solutions for user pain point </li></p>
+<p><li>Teamed up with product owners and agile squads to fine-tune backlogs, enhancing project delivery during challenging times<p><li>
 <br>
 
 
