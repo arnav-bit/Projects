@@ -25,14 +25,14 @@
 </div>
 
 ### My Experiences:
-<img src = "https://commons.wikimedia.org/wiki/File:Fot32.jpg" width = 250> 
+<img src = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fot32.jpg" width = 250> 
 <p><li>Interned as a <em> Global Business Analyst </em> at L'Oréal, working for more than 10 brands in 8 countries</li></p>
 <p><li>Analysed sales data, created reports, viz, suggestions for senior management</li></p>
 <p><li>Worked on the front lines, ensuring customer satisfaction</li></p>
 <p><li>Created <em> data driven strategies </em> for the retail partners to increase penetration in new markets and retention</li></p>
 
 <br>
-<img src = "https://commons.wikimedia.org/wiki/File:Stealthfoto.jpg" width = 250>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/3/35/Stealthfoto.jpg" width = 250>
 <p><li>Interned as a <em> Business Analyst </em> at Amazon EU HQ. Worked for Amazon Transportation Services, responsible for your timely delivery of packages </li></p>
 <p><li>Analysed operation data to create visualizations in Tableau and AWS Quicksight, business process improvements and automated reports for more than 60 stakeholders </li></p>
 <p><li> Automated several complex manual process using Python to improve time efficiency and save time </li></p>
