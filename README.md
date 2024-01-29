@@ -15,17 +15,17 @@
 - &#x1F3D2; : I have also been a National field Hockey player captaining my state's team in India!
 
 <div id="badges" align = "center">
-  <a href = "https://www.linkedin.com/in/zaid-zafar-farooqui-46b49b124/" >
+  <a href = "https://https://www.linkedin.com/in/arnavshri1/" >
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://www.instagram.com/what_waitforit_up/">
+  <a href = "https://www.instagram.com/arnavs__04/">
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
 </div>
 
 ### My Experiences:
-<img src = "https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Oréal_logo.svg" width = 250> 
+<img src = "https://drive.google.com/file/d/16ECbATTSUEbYdIdeGRxbYOiSyj5sno_m/view?usp=drive_link" width = 250> 
 <p><li>Interned as a <em> Global Business Analyst </em> at L'Oréal, working for more than 10 brands in 8 countries</li></p>
 <p><li>Analysed sales data, created reports, viz, suggestions for senior management</li></p>
 <p><li>Worked on the front lines, ensuring customer satisfaction</li></p>
