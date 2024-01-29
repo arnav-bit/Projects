@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+wordcloud
+langdetect
+bs4
+flask
+requests
+Pillow
+nbconvert
+jupyter
+pandoc
+

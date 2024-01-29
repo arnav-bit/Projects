@@ -1,0 +1,21 @@
+<!doctype html>
+
+
+<head><title>Test</title>
+    <meta charset=utf-8> </head>
+	<h1>Metacritic Reviews Sentiment Analysis</h1>
+    <body>
+
+		<div>Get Metacritic path and insert it like example with no slash : "game/switch/fire-emblem-warriors"</div>
+		<div>Submit to refresh data source file</div>
+		<form action="{{ url_for('handle_data') }}" method="post">
+			<input type="text" name="projectFilepath">
+			<input type="submit">
+		</form>
+        <div>Run the sentiment analysis to get a report</h1>
+        <form action="run.py">
+            <input type="submit" value="Click me" />
+        </form>
+        <div>Metacritic path examples: "game/switch/fire-emblem-warriors" , "game/pc/diablo-iv", "game/pc/resident-evil-4" , "game/pc/resident-evil-4",  "game/pc/cyberpunk-2077"</div>
+        <button> <a href="run.py">Click me</a></button>
+    </body>
