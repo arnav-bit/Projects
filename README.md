@@ -25,7 +25,7 @@
 </div>
 
 ### My Experiences:
-<img src = "https://drive.google.com/file/d/16ECbATTSUEbYdIdeGRxbYOiSyj5sno_m/view?usp=drive_link" width = 250> 
+<img src = "https://www.flickr.com/photos/199958161@N05/53496011219/in/dateposted-public/" width = 250> 
 <p><li>Interned as a <em> Global Business Analyst </em> at L'Oréal, working for more than 10 brands in 8 countries</li></p>
 <p><li>Analysed sales data, created reports, viz, suggestions for senior management</li></p>
 <p><li>Worked on the front lines, ensuring customer satisfaction</li></p>
