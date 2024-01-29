@@ -53,7 +53,7 @@
 <p><li>Worked as an Associate Product Mananger at Amadeus, India</li></p>
 <p><li>Directed the seamless rollout of an HRMS platform, guiding teams to streamline HR processes significantly </li></p>
 <p><li>Evaluated and prioritized a wealth of customer feedback, resulting in impactful solutions for user pain point </li></p>
-<p><li>Teamed up with product owners and agile squads to fine-tune backlogs, enhancing project delivery during challenging times<p><li>
+<p><li>Teamed up with product owners and agile squads to fine-tune backlogs, enhancing project delivery during challenging times<p></li>
 <br>
 
 
