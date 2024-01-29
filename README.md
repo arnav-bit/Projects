@@ -15,7 +15,7 @@
 - &#x1F3D2; : I have also been a National field Hockey player captaining my state's team in India!
 
 <div id="badges" align = "center">
-  <a href = "https://https://www.linkedin.com/in/arnavshri1/" >
+  <a href = "https://www.linkedin.com/in/arnavshri1/" >
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://www.instagram.com/arnavs__04/">
@@ -50,7 +50,7 @@
 
 <br>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gyrix_logo.jpg" width = 250>
-<p><li>Worked as an Associate Product Mananger at Amadeus, India</li></p>
+<p><li>Worked as an Associate Product Mananger at Gyrix Technolabs, an Australian web development studio.</li></p>
 <p><li>Directed the seamless rollout of an HRMS platform, guiding teams to streamline HR processes significantly </li></p>
 <p><li>Evaluated and prioritized a wealth of customer feedback, resulting in impactful solutions for user pain point </li></p>
 <p><li>Teamed up with product owners and agile squads to fine-tune backlogs, enhancing project delivery during challenging times<p></li>
@@ -61,13 +61,12 @@
 
 | Project Name | About | Skills Used | Link |
 | -------- | -------- | -------- | -------- |
-| Ubisoft Weak Signals Detection | Created a project to scrape data from Reddit, analyse it using NLP and present relevant results |Python, Market Analysis, Visualizations, Consumer Psychology | [Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/Ubisoft_Weak_Signals) |
-| Amusement Park Machine Learning Model | Built a logistic regression model to predict the customer satisfaction given a variety of variables |Python | [Here](https://github.com/Zaidf97/AnalyticsProject/blob/main/ModelsOfMarketing/amusementModel.ipynb) |
-| Spotify Data Vizualisation | Created an extended interactive dashboard on Tableau using Spotify data to find trends in the songs and create descriptive vizualizations | Tableau, Excel | [Here](https://public.tableau.com/views/SpotifyDash_16771858113360/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link) |
-| IMDB Analysis using SQL | Created MySQL queries to analyse the IMDB Dataset spread across 6 different sheets | SQL, Excel | [Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/MySQLProjects) |
-| IPL Match Data Analysis | Dashboards on PowerBI to analyse Indian Premier League data and create interactive viz around scores, wins, losses, runs and more over a period of 10 years | Excel, PowerBI, PowerQuery |[Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/IPLAnalysis) |
-| Statistics Using Python | Several statistical model such as regression, ANOVA, ANCOVA, Moderation, Mediation and more | Python |[Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/ModelsOfMarketing) |
-| Sales Performance Analysis | Interactive dashboard on Tableau using a standard dataset, creating different kinds of stories, geomaps, KPI charts, interactive filters and more | Excel, PowerBI, PowerQuery |[Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/IPLAnalysis) |
+| Ubisoft Weak Signals Detection | Created a project to scrape data from Reddit, analyse it using NLP and present relevant results |Python, Market Analysis, Visualizations, Consumer Psychology | [Here](https://github.com/arnav-bit/Projects/tree/main/Ubisoft_Weak_Signals) |
+| Amusement Park Machine Learning Model | Built a logistic regression model to predict the customer satisfaction given a variety of variables |Python | [Here](https://github.com/arnav-bit/Projects/blob/main/Models_In_Marketing/amusementModel.ipynb) |
+| IMDB Analysis using SQL | Created MySQL queries to analyse the IMDB Dataset spread across 6 different sheets | SQL, Excel | [Here](https://github.com/arnav-bit/Projects/tree/main/MySQLAnalysis) |
+| IPL Match Data Analysis | Dashboards on PowerBI to analyse Indian Premier League data and create interactive viz around scores, wins, losses, runs and more over a period of 10 years | Excel, PowerBI, PowerQuery |[Here](https://github.com/arnav-bit/Projects/tree/main/IPLAnalysis) |
+| Statistics Using Python | Several statistical model such as regression, ANOVA, ANCOVA, Moderation, Mediation and more | Python |[Here](https://github.com/arnav-bit/Projects/tree/main/Models_In_Marketing) |
+| Sales Performance Analysis | Interactive dashboard on Tableau using a standard dataset, creating different kinds of stories, geomaps, KPI charts, interactive filters and more | Excel, PowerBI, PowerQuery |[Here](https://github.com/arnav-bit/Projects/tree/main/IPLAnalysis) |
 
 
 # AnalyticsProject
