@@ -11,7 +11,7 @@
 - &#128187; : As an experienced Product Manager, I excel in orchestrating innovative solutions that seamlessly blend user needs, market dynamics, and technology."
 - &#128295;: My skills include Advanced Excel, Python, SQL, PowerBI, Tableau, Figma, Jira, Asana, Googling, SPSS, sentiment analysis and more!
 - &#127928; : In my free time, I like to sing, watch football, read books and play video games!
-- &#9749; : I love brewing my own coffee and trying out local flavours.
+- &#x1F3AE, &#x1F3D1; : I love participating in e-sports tournaments over the weekends and I am a national field hockey player!
 
 <div id="badges" align = "center">
   <a href = "https://www.linkedin.com/in/zaid-zafar-farooqui-46b49b124/" >
