@@ -93,7 +93,7 @@ I used the statsmodel.api library to create a log regression model and I achieve
 <img width="962" alt="Screenshot 2023-10-22 at 11 09 18" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/a66735d1-3c1e-4956-97e9-8b061b7a3234">
 
 
-## [Spotify Music Data - Tableau](https://public.tableau.com/views/SpotifyDash_16771858113360/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## [Spotify Music Data - Tableau]
 Being an avid music listener and playing the guitar for as long as I could remember, it is a surprise I didn't pick this project earlier. I found this dataset as part of another Python project to analyse and viusalise data, however I thought it could be a good fit for a tableau project.
 
 The data contains various fields from a Spotify Datset, including the track name, artists, genres, key of the song, Major/minor mode and some significant measures such as duration, popularity, loudness, tempo, liveness etc. 
