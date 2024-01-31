@@ -72,7 +72,7 @@
 # AnalyticsProject
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
 
-## [Ubisoft Weak Signals - Python, SPSS](https://github.com/Zaidf97/AnalyticsProject/tree/main/Ubisoft_Weak_Signals)
+## [Ubisoft Weak Signals - Python, SPSS](https://github.com/arnav-bit/Projects/tree/main/Ubisoft_Weak_Signals)
 During this academic project, I mainly learnt how to conduct NLP on textual data, to tokenize them, clean and process them and eventually use them to create wordclouds of relevant data, to understand the key discussion topics in the community.
 
 NLP Tokenization
@@ -86,14 +86,14 @@ Building wordclouds
 
 
 
-## [Amusement Park Machine Learning Project - Python](https://github.com/Zaidf97/AnalyticsProject/blob/main/ModelsOfMarketing/amusementModel.ipynb)
+## [Amusement Park Machine Learning Project - Python](https://github.com/arnav-bit/Projects/blob/main/Models_In_Marketing/amusementModel.ipynb)
 As part of my current coursework in Analytics, I have taken up several python based projects. One such project was to create an optimal machine learning model using a given dataset where we can estimate the overall score given by consumers to an amusement park based on factors such as price, wait time, distance, number of kids and more.
 I used the statsmodel.api library to create a log regression model and I achieved an R-squared value of 82.2%
 
 <img width="962" alt="Screenshot 2023-10-22 at 11 09 18" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/a66735d1-3c1e-4956-97e9-8b061b7a3234">
 
 
-## [Spotify Music Data - Tableau]
+## Spotify Music Data - Tableau
 Being an avid music listener and playing the guitar for as long as I could remember, it is a surprise I didn't pick this project earlier. I found this dataset as part of another Python project to analyse and viusalise data, however I thought it could be a good fit for a tableau project.
 
 The data contains various fields from a Spotify Datset, including the track name, artists, genres, key of the song, Major/minor mode and some significant measures such as duration, popularity, loudness, tempo, liveness etc. 
@@ -150,9 +150,9 @@ This subquery tells us how many unique products were purchased by the consumer.
 
 This query tells us which products are commonly purchased together by the consumers.
 
-## [Regional Sales Performance across 3 different data sheets - Tableau](https://public.tableau.com/views/SalesCourse/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Regional Sales Performance across 3 different data sheets - Tableau
 
-Created this simple project using [Tableau](https://public.tableau.com/app/profile/zaid.farooqui2160) where I am analysing the sales performance of a company selling various items distributed across assortments (phones, electronics, etc), Colors, Classficiations (A,B, etc).
+Created this simple project using Tableau where I am analysing the sales performance of a company selling various items distributed across assortments (phones, electronics, etc), Colors, Classficiations (A,B, etc).
 This project follows the entire Tableau life cycle, right from importing the data (3 different tables), [blending the data](https://stackoverflow.com/questions/73229666/tableau-what-is-the-different-between-relationship-and-data-blending) creating various sheets, dashboards and finally a story to look at all the crucial information at a glance.
 
 Tableau obviously provides you an opportunity to make interactive dashboards, where you can filter a sheet and see how it impacts the other sheets in the dashboards. A simple example below :
